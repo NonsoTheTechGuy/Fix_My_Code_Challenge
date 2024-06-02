@@ -1,4 +1,5 @@
 # Project - 0x00. Fix my code
+
 ## `Debugging`
   
 ## Background Context
@@ -23,6 +24,7 @@ This project is NOT mandatory at all. It is 100% optional. Doing any part of thi
 ## 0. FizzBuzz
 
 `advanced`
+
 Please take a look at my implementation of FizzBuzz in Python: [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py)
 
 Something is going wrong….
@@ -89,6 +91,7 @@ $
 ## 2. Sort
 
 `advanced`
+
 Please find here my implementation of sorting arguments in Ruby: source code
 
 Something is going wrong….
